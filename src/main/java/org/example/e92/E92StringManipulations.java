@@ -6,11 +6,28 @@ public class E92StringManipulations {
         String s1 = "hello how are you";
 
         // Use the endsWith() method to check if 's1' ends with "u" and print the result
-
+        if (s1.endsWith("u")){
+            System.out.println("true");
+        }else {
+            System.out.println("false");
+        }
         // Use the endsWith() method to check if 's1' ends with "world" and print the result
-
+        if (s1.endsWith("world")){
+            System.out.println("true");
+        }else {
+            System.out.println("false");
+        }
         // Use the endsWith() method to check if 's1' ends with "are" and print the result
-
+        if (s1.endsWith("are")){
+            System.out.println("true");
+        }else {
+            System.out.println("false");
+        }
         // Use the endsWith() method to check if 's1' ends with "you" and print the result
+        if (s1.endsWith("you")){
+            System.out.println("true");
+        }else {
+            System.out.println("false");
+        }
     }
 }

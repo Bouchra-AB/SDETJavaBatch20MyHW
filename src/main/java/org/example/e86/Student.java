@@ -4,7 +4,6 @@ package org.example.e86;
 public class Student {
     // Declare a String variable named 'name'
     // Declare an integer variable named 'roll_no'
-
     String name;
     int roll_no;
 

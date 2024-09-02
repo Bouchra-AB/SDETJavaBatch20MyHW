@@ -5,6 +5,9 @@ public class Car {
     // Declare a String variable named 'carColor'
     // Declare an integer variable named 'carYear'
     // Declare a String variable named 'carMake'
+    String carColor;
+    int carYear;
+    String carMake;
 
 
 
